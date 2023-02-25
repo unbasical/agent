@@ -7,15 +7,12 @@ require (
 	github.com/cortexproject/cortex v1.4.1-0.20201022071705-85942c5703cf
 	github.com/drone/envsubst v1.0.2
 	github.com/go-kit/kit v0.10.0
-	github.com/go-playground/validator/v10 v10.4.0 // indirect
 	github.com/gogo/protobuf v1.3.1
 	github.com/golang/protobuf v1.4.3
 	github.com/google/dnsmasq_exporter v0.0.0-00010101000000-000000000000
 	github.com/gorilla/mux v1.8.0
 	github.com/grafana/loki v1.6.2-0.20201026154740-6978ee5d7387
 	github.com/hashicorp/consul/api v1.7.0
-	github.com/hashicorp/yamux v0.0.0-20190923154419-df201c70410d // indirect
-	github.com/joshdk/go-junit v0.0.0-20200702055522-6efcf4050909 // indirect
 	github.com/jsternberg/zap-logfmt v1.2.0
 	github.com/miekg/dns v1.1.31
 	github.com/ncabatoff/process-exporter v0.0.0-00010101000000-000000000000
@@ -44,7 +41,7 @@ require (
 	go.opentelemetry.io/collector v0.16.0
 	go.uber.org/atomic v1.7.0
 	go.uber.org/zap v1.16.0
-	golang.org/x/sys v0.0.0-20201201145000-ef89a241ccb3 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/grpc v1.33.2
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/yaml.v2 v2.4.0
